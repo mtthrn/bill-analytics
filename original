@@ -1,0 +1,66 @@
+a = input("Who is the sponsor of the bill?")
+if a == "Corman":
+    a1 = 0 + 0.3
+#Repeat lines two and three for every senator and their weights
+#Remove 0.3 in line 3 and replace with accurate weights
+b = input("Is the sponsor the chair of the relevant committee?")
+if b == "Yes" or b == "yes":
+    b1 = a1 + 0.4
+else:
+    b1 = a1
+#Remove 0.4 in line 8
+c = int(input("How many cosponsors are there?"))
+c1 = []
+for i in range(c):
+    c1.append(input("Who is a cosponsor?"))
+if "Corman" in c1:
+    c2 = b1 + 0.5
+if "Corman" not in c1:
+    c2 = b1
+if "Browne" in c1:
+    c3 = b1 + 0.4
+if "Browne" not in c1:
+    c3 = b1
+if "Wagner" in c1:
+    c4 = b1 + 0.2
+if "Wagner" not in c1:
+    c4 = b1
+c5 = (b1 + c2 + c3 + c4)
+#Repeat lines 16 through 27 for every senator and their weights
+#Remove line 28, change to (c2+c3...) = cX (where X is the next available integer)
+#Remove weights in lines 16 through 27 and replace with actual calculated values
+d = input("Is a cosponsor the chair of the relevant committee?")
+if d == "Yes" or d == "yes":
+    d1 = c5 + 0.35
+else:
+    d1 = c5
+#Use actual values
+e = input("Which commitee was the bill referred to?")
+if e == "Appropriations":
+    e1 = d1 + 0.6
+else:
+    e1 = d1
+#Use actual committees and their weights, replace lines 39 and 40
+f = input("Who is the chairman of the committee the bill was referred to?")
+if f == "Browne":
+    f1 = e1 + 0.2
+else:
+    f1 = e1
+#assign score to f
+g = input("Is the sponsor of the bill a member of the majority party?")
+if g == "Yes":
+    g1 = f1 + .5
+else:
+    g1 = f1
+#assign score to g
+h = int(input("How many cosponsors of the bill are a member of the minority party?"))
+if h > c * 0.3:
+    h1 = g1 + 0.55
+else:
+    h1 = g1
+#if yes, ask how many and assign score
+if h1 < 4:
+    i1 = "40%"
+else:
+    i1 = 0
+print("The score of this bill is",h1,"so the bill has a",i1,"chance of passing.")
