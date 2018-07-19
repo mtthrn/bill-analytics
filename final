@@ -1,0 +1,486 @@
+print("Program is case sensitive. Please be sure to capitalize the first letter of each word and properly capitalize all names.")
+a = input("Who is the sponsor of the bill?")
+#if a == "Alloway":
+    #a1 = 0 + weight
+#if a == "Argall":
+    #a1 = 0 + weight
+#if a == "Aument":
+    #a1 = 0 + weight
+#if a == "Baker":
+    #a1 = 0 + weight
+#if a == "Bartolotta":
+    #a1 = 0 + weight
+#if a == "Blake":
+    #a1 = 0 + weight
+#if a == "Boscola":
+    #a1 = 0 + weight
+#if a == "Brewster":
+    #a1 = 0 + weight
+#if a == "Brooks":
+    #a1 = 0 + weight
+#if a == "Browne":
+    #a1 = 0 + weight
+#if a == "Corman":
+    #a1 = 0 + weight
+#if a == "Costa":
+    #a1 = 0 + weight
+#if a == "DiSanto":
+    #a1 = 0 + weight
+#if a == "Dinniman":
+    #a1 = 0 + weight
+#if a == "Eichelberger":
+    #a1 = 0 + weight
+#if a == "Farnese":
+    #a1 = 0 + weight
+#if a == "Folmer":
+    #a1 = 0 + weight
+#if a == "Fontana":
+    #a1 = 0 + weight
+#if a == "Gordner":
+    #a1 = 0 + weight
+#if a == "Greenleaf":
+    #a1 = 0 + weight
+#if a == "Haywood":
+    #a1 = 0 + weight
+#if a == "Hughes":
+    #a1 = 0 + weight
+#if a == "Hutchinson":
+    #a1 = 0 + weight
+#if a == "Killion":
+    #a1 = 0 + weight
+#if a == "Langerholc":
+    #a1 = 0 + weight
+#if a == "Laughlin":
+    #a1 = 0 + weight
+#if a == "Leach":
+    #a1 = 0 + weight
+#if a == "Martin":
+    #a1 = 0 + weight
+#if a == "McGarrigle":
+    #a1 = 0 + weight
+#if a == "McIlhinney":
+    #a1 = 0 + weight
+#if a == "Mensch":
+    #a1 = 0 + weight
+#if a == "Rafferty":
+    #a1 = 0 + weight
+#if a == "Regan":
+    #a1 = 0 + weight
+#if a == "Reschenthaler":
+    #a1 = 0 + weight
+#if a == "Sabatina":
+    #a1 = 0 + weight
+#if a == "Scarnati":
+    #a1 = 0 + weight
+#if a == "Scavello":
+    #a1 = 0 + weight
+#if a == "Schwank":
+    #a1 = 0 + weight
+#if a == "Stefano":
+    #a1 = 0 + weight
+#if a == "Street":
+    #a1 = 0 + weight
+#if a == "Tartaglione":
+    #a1 = 0 + weight
+#if a == "Tomlinson":
+    #a1 = 0 + weight
+#if a == "Vogel":
+    #a1 = 0 + weight
+#if a == "Vulakovich":
+    #a1 = 0 + weight
+#if a == "Wagner":
+    #a1 = 0 + weight
+#if a == "Ward":
+    #a1 = 0 + weight
+#if a == "White":
+    #a1 = 0 + weight
+#if a == "Williams":
+    #a1 = 0 + weight
+#if a == "Yaw":
+    #a1 = 0 + weight
+#if a == "Yudichak":
+    #a1 = 0 + weight
+b = input("Is the sponsor of the bill the chair of the relevant committee?")
+if b == "Yes":
+    #b1 = a1 + weight
+if b == "No":
+    b1 = a1
+else:
+    print("Invalid response. Please enter Yes or No.")
+c = int(input("How many cosponsors are there?"))
+c1 = []
+for i in range(c):
+    c1.append(input("Who is a cosponsor"))
+#if "Senator 1" in c1:
+    #c2 = weight
+#if "Senator 1" not in c1:
+    c2 = 0
+#if "Senator 2" in c1:
+    #c3 = weight
+#if "Senator 2" not in c1:
+    c3 = 0
+#if "Senator 3" in c1:
+    #c4 = weight
+#if "Senator 3" not in c1:
+    c4 = 0
+#if "Senator 4" in c1:
+    #c5 = weight
+#if "Senator 4" not in c1:
+    c5 = 0
+#if "Senator 5" in c1:
+    #c6 = weight
+#if "Senator 5" not in c1:
+    c6 = 0
+#if "Senator 6" in c1:
+    #c7 = weight
+#if "Senator 6" not in c1:
+    c7 = 0
+#if "Senator 7" in c1:
+    #c8 = weight
+#if "Senator 7" not in c1:
+    c8 = 0
+#if "Senator 8" in c1:
+    #c9 = weight
+#if "Senator 8" not in c1:
+    c9 = 0
+#if "Senator 9" in c1:
+    #c10 = weight
+#if "Senator 9" not in c1:
+    c10 = 0
+#if "Senator 10" in c1:
+    #c11 = weight
+#if "Senator 10" not in c1:
+    c11 = 0
+#if "Senator 11" in c1:
+    #c12 = weight
+#if "Senator 11" not in c1:
+    c12 = 0
+#if "Senator 12" in c1:
+    #c13 = weight
+#if "Senator 12" not in c1:
+    c13 = 0
+#if "Senator 13" in c1:
+    #c14 = weight
+#if "Senator 13" not in c1:
+    c14 = 0
+#if "Senator 14" in c1:
+    #c15 = weight
+#if "Senator 14" not in c1:
+    c15 = 0
+#if "Senator 15" in c1:
+    #c16 = weight
+#if "Senator 15" not in c1:
+    c16 = 0
+#if "Senator 16" in c1:
+    #c17 = weight
+#if "Senator 16" not in c1:
+    c17 = 0
+#if "Senator 17" in c1:
+    #c18 = weight
+#if "Senator 17" not in c1:
+    c18 = 0
+#if "Senator 18" in c1:
+    #c19 = weight
+#if "Senator 18" not in c1:
+    c19 = 0
+#if "Senator 19" in c1:
+    #c20 = weight
+#if "Senator 19" not in c1:
+    c20 = 0
+#if "Senator 20" in c1:
+    #c21 = weight
+#if "Senator 20" not in c1:
+    c21 = 0
+#if "Senator 21" in c1:
+    #c22 = weight
+#if "Senator 21" not in c1:
+    c22 = 0
+#if "Senator 22" in c1:
+    #c23 = weight
+#if "Senator 22" not in c1:
+    c23 = 0
+#if "Senator 23" in c1:
+    #c24 = weight
+#if "Senator 23" not in c1:
+    c24 = 0
+#if "Senator 24" in c1:
+    #c25 = weight
+#if "Senator 24" not in c1:
+    c25 = 0
+#if "Senator 25" in c1:
+    #c26 = weight
+#if "Senator 25" not in c1:
+    c26 = 0
+#if "Senator 26" in c1:
+    #c27 = weight
+#if "Senator 26" not in c1:
+    c27 = 0
+#if "Senator 27" in c1:
+    #c28 = weight
+#if "Senator 27" not in c1:
+    c28 = 0
+#if "Senator 28" in c1:
+    #c29 = weight
+#if "Senator 28" not in c1:
+    c29 = 0
+#if "Senator 29" in c1:
+    #c30 = weight
+#if "Senator 29" not in c1:
+    c30 = 0
+#if "Senator 30" in c1:
+    #c31 = weight
+#if "Senator 30" not in c1:
+    c31 = 0
+#if "Senator 31" in c1:
+    #c32 = weight
+#if "Senator 31" not in c1:
+    c32 = 0
+#if "Senator 32" in c1:
+    #c33 = weight
+#if "Senator 32" not in c1:
+    c33 = 0
+#if "Senator 33" in c1:
+    #c34 = weight
+#if "Senator 33" not in c1:
+    c34 = 0
+#if "Senator 34" in c1:
+    #c35 = weight
+#if "Senator 34" not in c1:
+    c35 = 0
+#if "Senator 35" in c1:
+    #c36 = weight
+#if "Senator 35" not in c1:
+    c36 = 0
+#if "Senator 36" in c1:
+    #c37 = weight
+#if "Senator 36" not in c1:
+    c37 = 0
+#if "Senator 37" in c1:
+    #c38 = weight
+#if "Senator 37" not in c1:
+    c38 = 0
+#if "Senator 38" in c1:
+    #c39 = weight
+#if "Senator 38" not in c1:
+    c39 = 0
+#if "Senator 39" in c1:
+    #c40 = weight
+#if "Senator 39" not in c1:
+    c40 = 0
+#if "Senator 40" in c1:
+    #c41 = weight
+#if "Senator 40" not in c1:
+    c41 = 0
+#if "Senator 41" in c1:
+    #c42 = weight
+#if "Senator 41" not in c1:
+    c42 = 0
+#if "Senator 42" in c1:
+    #c43 = weight
+#if "Senator 42" not in c1:
+    c43 = 0
+#if "Senator 43" in c1:
+    #c44 = weight
+#if "Senator 43" not in c1:
+    c44 = 0
+#if "Senator 44" in c1:
+    #c45 = weight
+#if "Senator 44" not in c1:
+    c45 = 0
+#if "Senator 45" in c1:
+    #c46 = weight
+#if "Senator 45" not in c1:
+    c46 = 0
+#if "Senator 46" in c1:
+    #c47 = weight
+#if "Senator 46" not in c1:
+    c47 = 0
+#if "Senator 47" in c1:
+    #c48 = weight
+#if "Senator 47" not in c1:
+    c48 = 0
+#if "Senator 48" in c1:
+    #c49 = weight
+#if "Senator 48" not in c1:
+    c49 = 0
+#if "Senator 49" in c1:
+    #c50 = weight
+#if "Senator 49" not in c1:
+    c50 = 0
+#if "Senator 50" in c1:
+    #c51 = weight
+#if "Senator 50" not in c1:
+    c51 = 0
+c52 = (b1 + c2 + c3 + c4 + c5 + c6 + c7 + c8 + c9 + c10 + c11 + c12 + c13 + c14 + c15 + c16 + c17 + c18 + c19 + c20 + c21 + c22 + c23 + c24 + c25 + c26 + c27 + c28 + c29 + c30 + c31 + c32 + c33 + c34 + c35 + c36 + c37 + c38 + c39 + c40 + c41 + c42 + c43 + c44 + c45 + c46 + c47 + c48 + c49 + c50 + c51)
+d = input("Is a cosponsor the chair of the relevant committee?")
+if d == "Yes":
+    #d1 = c52 + weight
+if d == "No":
+    d1 = c52
+else:
+    print("Invalid response. Please enter Yes or No.")
+if e == "Aging And Youth":
+    #e1 = d1 + weight
+if e == "Agriculture And Rural Affairs":
+    #e1 = d1 + weight
+if e == "Appropriations":
+    #e1 = d1 + weight
+if e == "Banking And Insurance":
+    #e1 = d1 + weight
+if e == "Communications And Technology":
+    #e1 = d1 + weight
+if e == "Community, Economic and Recreational Development":
+    #e1 = d1 + weight
+if e == "Consumer Protection And Professional Licensure":
+    #e1 = d1 + weight
+if e == "Education":
+    #e1 = d1 + weight
+if e == "Environmental Resources And Energy":
+    #e1 = d1 + weight
+if e == "Finance":
+    #e1 = d1 + weight
+if e == "Game And Fisheries":
+    #e1 = d1 + weight
+if e == "Health And Human Services":
+    #e1 = d1 + weight
+if e == "Intergovernmental Operations":
+    #e1 = d1 + weight
+if e == "Judiciary":
+    #e1 = d1 + weight
+if e == "Labor And Industry":
+    #e1 = d1 + weight
+if e == "Law And Justice":
+    #e1 = d1 + weight
+if e == "Local Government":
+    #e1 = d1 + weight
+if e == "Rules And Executive Nominations":
+    #e1 = d1 + weight
+if e == "State Government":
+    #e1 = d1 + weight
+if e == "Transportation":
+    #e1 = d1 + weight
+if e == "Urban Affairs And Housing":
+    #e1 = d1 + weight
+if e == "Veterans Affairs And Emergency Preparedness":
+    #e1 = d1 + weight
+f = input("Who is the chairman of the committee the bill was referred to?")
+#if f == "Senator 1":
+    #f1 = e1 + weight
+#if f == "Senator 2":
+    #f1 = e1 + weight
+#if f == "Senator 3":
+    #f1 = e1 + weight
+#if f == "Senator 4":
+    #f1 = e1 + weight
+#if f == "Senator 5":
+    #f1 = e1 + weight
+#if f == "Senator 6":
+    #f1 = e1 + weight
+#if f == "Senator 7":
+    #f1 = e1 + weight
+#if f == "Senator 8":
+    #f1 = e1 + weight
+#if f == "Senator 9":
+    #f1 = e1 + weight
+#if f == "Senator 10":
+    #f1 = e1 + weight
+#if f == "Senator 11":
+    #f1 = e1 + weight
+#if f == "Senator 12":
+    #f1 = e1 + weight
+#if f == "Senator 13":
+    #f1 = e1 + weight
+#if f == "Senator 14":
+    #f1 = e1 + weight
+#if f == "Senator 15":
+    #f1 = e1 + weight
+#if f == "Senator 16":
+    #f1 = e1 + weight
+#if f == "Senator 17":
+    #f1 = e1 + weight
+#if f == "Senator 18":
+    #f1 = e1 + weight
+#if f == "Senator 19":
+    #f1 = e1 + weight
+#if f == "Senator 20":
+    #f1 = e1 + weight
+#if f == "Senator 21":
+    #f1 = e1 + weight
+#if f == "Senator 22":
+    #f1 = e1 + weight
+#if f == "Senator 23":
+    #f1 = e1 + weight
+#if f == "Senator 24":
+    #f1 = e1 + weight
+#if f == "Senator 25":
+    #f1 = e1 + weight
+#if f == "Senator 26":
+    #f1 = e1 + weight
+#if f == "Senator 27":
+    #f1 = e1 + weight
+#if f == "Senator 28":
+    #f1 = e1 + weight
+#if f == "Senator 29":
+    #f1 = e1 + weight
+#if f == "Senator 30":
+    #f1 = e1 + weight
+#if f == "Senator 31":
+    #f1 = e1 + weight
+#if f == "Senator 32":
+    #f1 = e1 + weight
+#if f == "Senator 33":
+    #f1 = e1 + weight
+#if f == "Senator 34":
+    #f1 = e1 + weight
+#if f == "Senator 35":
+    #f1 = e1 + weight
+#if f == "Senator 36":
+    #f1 = e1 + weight
+#if f == "Senator 37":
+    #f1 = e1 + weight
+#if f == "Senator 38":
+    #f1 = e1 + weight
+#if f == "Senator 39":
+    #f1 = e1 + weight
+#if f == "Senator 40":
+    #f1 = e1 + weight
+#if f == "Senator 41":
+    #f1 = e1 + weight
+#if f == "Senator 42":
+    #f1 = e1 + weight
+#if f == "Senator 43":
+    #f1 = e1 + weight
+#if f == "Senator 44":
+    #f1 = e1 + weight
+#if f == "Senator 45":
+    #f1 = e1 + weight
+#if f == "Senator 46":
+    #f1 = e1 + weight
+#if f == "Senator 47":
+    #f1 = e1 + weight
+#if f == "Senator 48":
+    #f1 = e1 + weight
+#if f == "Senator 49":
+    #f1 = e1 + weight
+#if f == "Senator 50":
+    #f1 = e1 + weight
+g = input("Is the sponsor of the bill a member of the majority party?")
+if g == "Yes":
+    #g1 = f1 + weight
+if g == "No":
+    g1 = f1
+else:
+    print("Invalid response. Please enter Yes or No.")
+h = int(input("How many cosponsors of the bill are a member of the minority party?"))
+if h > c * 0.32:
+    #h1 = g1 + weight
+else:
+    h1 = g1
+
+#ASSIGN PROBABILITIES BASED ON RANGE OF SCORE HERE
+#EXAMPLE: 
+
+#if h1 >= 0.5 and < 1:
+    #i1 = "45%"
+
+print("The score of this bill is", h1, "and it has a", i1, "chance of passing.")
