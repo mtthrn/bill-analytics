@@ -102,7 +102,7 @@ a = input("Who is the sponsor of the bill?")
     #a1 = 0 + weight
 b = input("Is the sponsor of the bill the chair of the relevant committee?")
 if b == "Yes":
-    #b1 = a1 + weight
+    #b1 = a1 + 1.8
 if b == "No":
     b1 = a1
 else:
@@ -111,205 +111,205 @@ c = int(input("How many cosponsors are there?"))
 c1 = []
 for i in range(c):
     c1.append(input("Who is a cosponsor"))
-#if "Senator 1" in c1:
+#if "Alloway" in c1:
     #c2 = weight
-#if "Senator 1" not in c1:
+#if "Alloway" not in c1:
     c2 = 0
-#if "Senator 2" in c1:
+#if "Argall" in c1:
     #c3 = weight
-#if "Senator 2" not in c1:
+#if "Argall" not in c1:
     c3 = 0
-#if "Senator 3" in c1:
+#if "Aument" in c1:
     #c4 = weight
-#if "Senator 3" not in c1:
+#if "Aument" not in c1:
     c4 = 0
-#if "Senator 4" in c1:
+#if "Baker" in c1:
     #c5 = weight
-#if "Senator 4" not in c1:
+#if "Baker" not in c1:
     c5 = 0
-#if "Senator 5" in c1:
+#if "Bartolotta" in c1:
     #c6 = weight
-#if "Senator 5" not in c1:
+#if "Bartolotta" not in c1:
     c6 = 0
-#if "Senator 6" in c1:
+#if "Blake" in c1:
     #c7 = weight
-#if "Senator 6" not in c1:
+#if "Blake" not in c1:
     c7 = 0
-#if "Senator 7" in c1:
+#if "Boscola" in c1:
     #c8 = weight
-#if "Senator 7" not in c1:
+#if "Boscola" not in c1:
     c8 = 0
-#if "Senator 8" in c1:
+#if "Brewster" in c1:
     #c9 = weight
-#if "Senator 8" not in c1:
+#if "Brewster" not in c1:
     c9 = 0
-#if "Senator 9" in c1:
+#if "Brooks" in c1:
     #c10 = weight
-#if "Senator 9" not in c1:
+#if "Brooks" not in c1:
     c10 = 0
-#if "Senator 10" in c1:
+#if "Browne" in c1:
     #c11 = weight
-#if "Senator 10" not in c1:
+#if "Browne" not in c1:
     c11 = 0
-#if "Senator 11" in c1:
+#if "Corman" in c1:
     #c12 = weight
-#if "Senator 11" not in c1:
+#if "Corman" not in c1:
     c12 = 0
-#if "Senator 12" in c1:
+#if "Costa" in c1:
     #c13 = weight
-#if "Senator 12" not in c1:
+#if "Costa" not in c1:
     c13 = 0
-#if "Senator 13" in c1:
+#if "DiSanto" in c1:
     #c14 = weight
-#if "Senator 13" not in c1:
+#if "DiSanto" not in c1:
     c14 = 0
-#if "Senator 14" in c1:
+#if "Dinniman" in c1:
     #c15 = weight
-#if "Senator 14" not in c1:
+#if "Dinniman" not in c1:
     c15 = 0
-#if "Senator 15" in c1:
+#if "Eichelberger" in c1:
     #c16 = weight
-#if "Senator 15" not in c1:
+#if "Eichelberger" not in c1:
     c16 = 0
-#if "Senator 16" in c1:
+#if "Farnese" in c1:
     #c17 = weight
-#if "Senator 16" not in c1:
+#if "Farnese" not in c1:
     c17 = 0
-#if "Senator 17" in c1:
+#if "Folmer" in c1:
     #c18 = weight
-#if "Senator 17" not in c1:
+#if "Folmer" not in c1:
     c18 = 0
-#if "Senator 18" in c1:
+#if "Fontana" in c1:
     #c19 = weight
-#if "Senator 18" not in c1:
+#if "Fontana" not in c1:
     c19 = 0
-#if "Senator 19" in c1:
+#if "Gordner" in c1:
     #c20 = weight
-#if "Senator 19" not in c1:
+#if "Gordner" not in c1:
     c20 = 0
-#if "Senator 20" in c1:
+#if "Greenleaf" in c1:
     #c21 = weight
-#if "Senator 20" not in c1:
+#if "Greenleaf" not in c1:
     c21 = 0
-#if "Senator 21" in c1:
+#if "Haywood" in c1:
     #c22 = weight
-#if "Senator 21" not in c1:
+#if "Haywood" not in c1:
     c22 = 0
-#if "Senator 22" in c1:
+#if "Hughes" in c1:
     #c23 = weight
-#if "Senator 22" not in c1:
+#if "Hughes" not in c1:
     c23 = 0
-#if "Senator 23" in c1:
+#if "Hutchinson" in c1:
     #c24 = weight
-#if "Senator 23" not in c1:
+#if "Hutchinson" not in c1:
     c24 = 0
-#if "Senator 24" in c1:
+#if "Killion" in c1:
     #c25 = weight
-#if "Senator 24" not in c1:
+#if "Killion" not in c1:
     c25 = 0
-#if "Senator 25" in c1:
+#if "Langerholc" in c1:
     #c26 = weight
-#if "Senator 25" not in c1:
+#if "Langerholc" not in c1:
     c26 = 0
-#if "Senator 26" in c1:
+#if "Laughlin" in c1:
     #c27 = weight
-#if "Senator 26" not in c1:
+#if "Laughlin" not in c1:
     c27 = 0
-#if "Senator 27" in c1:
+#if "Leach" in c1:
     #c28 = weight
-#if "Senator 27" not in c1:
+#if "Leach" not in c1:
     c28 = 0
-#if "Senator 28" in c1:
+#if "Martin" in c1:
     #c29 = weight
-#if "Senator 28" not in c1:
+#if "Martin" not in c1:
     c29 = 0
-#if "Senator 29" in c1:
+#if "McGarrigle" in c1:
     #c30 = weight
-#if "Senator 29" not in c1:
+#if "McGarrigle" not in c1:
     c30 = 0
-#if "Senator 30" in c1:
+#if "McIlhinney" in c1:
     #c31 = weight
-#if "Senator 30" not in c1:
+#if "McIlhinney" not in c1:
     c31 = 0
-#if "Senator 31" in c1:
+#if "Mensch" in c1:
     #c32 = weight
-#if "Senator 31" not in c1:
+#if "Mensch" not in c1:
     c32 = 0
-#if "Senator 32" in c1:
+#if "Rafferty" in c1:
     #c33 = weight
-#if "Senator 32" not in c1:
+#if "Rafferty" not in c1:
     c33 = 0
-#if "Senator 33" in c1:
+#if "Regan" in c1:
     #c34 = weight
-#if "Senator 33" not in c1:
+#if "Regan" not in c1:
     c34 = 0
-#if "Senator 34" in c1:
+#if "Reschenthaler" in c1:
     #c35 = weight
-#if "Senator 34" not in c1:
+#if "Reschenthaler" not in c1:
     c35 = 0
-#if "Senator 35" in c1:
+#if "Sabatina" in c1:
     #c36 = weight
-#if "Senator 35" not in c1:
+#if "Sabatina" not in c1:
     c36 = 0
-#if "Senator 36" in c1:
+#if "Scarnati" in c1:
     #c37 = weight
-#if "Senator 36" not in c1:
+#if "Scarnati" not in c1:
     c37 = 0
-#if "Senator 37" in c1:
+#if "Scavello" in c1:
     #c38 = weight
-#if "Senator 37" not in c1:
+#if "Scavello" not in c1:
     c38 = 0
-#if "Senator 38" in c1:
+#if "Schwank" in c1:
     #c39 = weight
-#if "Senator 38" not in c1:
+#if "Schwank" not in c1:
     c39 = 0
-#if "Senator 39" in c1:
+#if "Stefano" in c1:
     #c40 = weight
-#if "Senator 39" not in c1:
+#if "Stefano" not in c1:
     c40 = 0
-#if "Senator 40" in c1:
+#if "Street" in c1:
     #c41 = weight
-#if "Senator 40" not in c1:
+#if "Street" not in c1:
     c41 = 0
-#if "Senator 41" in c1:
+#if "Tartaglione" in c1:
     #c42 = weight
-#if "Senator 41" not in c1:
+#if "Tartaglione" not in c1:
     c42 = 0
-#if "Senator 42" in c1:
+#if "Tomlinson" in c1:
     #c43 = weight
-#if "Senator 42" not in c1:
+#if "Tomlinson" not in c1:
     c43 = 0
-#if "Senator 43" in c1:
+#if "Vogel" in c1:
     #c44 = weight
-#if "Senator 43" not in c1:
+#if "Vogel" not in c1:
     c44 = 0
-#if "Senator 44" in c1:
+#if "Vulakovich" in c1:
     #c45 = weight
-#if "Senator 44" not in c1:
+#if "Vulakovich" not in c1:
     c45 = 0
-#if "Senator 45" in c1:
+#if "Wagner" in c1:
     #c46 = weight
-#if "Senator 45" not in c1:
+#if "Wagner" not in c1:
     c46 = 0
-#if "Senator 46" in c1:
+#if "Ward" in c1:
     #c47 = weight
-#if "Senator 46" not in c1:
+#if "Ward" not in c1:
     c47 = 0
-#if "Senator 47" in c1:
+#if "White" in c1:
     #c48 = weight
-#if "Senator 47" not in c1:
+#if "White" not in c1:
     c48 = 0
-#if "Senator 48" in c1:
+#if "Williams" in c1:
     #c49 = weight
-#if "Senator 48" not in c1:
+#if "Williams" not in c1:
     c49 = 0
-#if "Senator 49" in c1:
+#if "Yaw" in c1:
     #c50 = weight
-#if "Senator 49" not in c1:
+#if "Yaw" not in c1:
     c50 = 0
-#if "Senator 50" in c1:
+#if "Yudichak" in c1:
     #c51 = weight
-#if "Senator 50" not in c1:
+#if "Yudichak" not in c1:
     c51 = 0
 c52 = (b1 + c2 + c3 + c4 + c5 + c6 + c7 + c8 + c9 + c10 + c11 + c12 + c13 + c14 + c15 + c16 + c17 + c18 + c19 + c20 + c21 + c22 + c23 + c24 + c25 + c26 + c27 + c28 + c29 + c30 + c31 + c32 + c33 + c34 + c35 + c36 + c37 + c38 + c39 + c40 + c41 + c42 + c43 + c44 + c45 + c46 + c47 + c48 + c49 + c50 + c51)
 d = input("Is a cosponsor the chair of the relevant committee?")
@@ -364,105 +364,105 @@ if e == "Urban Affairs And Housing":
 if e == "Veterans Affairs And Emergency Preparedness":
     #e1 = d1 + weight
 f = input("Who is the chairman of the committee the bill was referred to?")
-#if f == "Senator 1":
+#if f == "Alloway":
     #f1 = e1 + weight
-#if f == "Senator 2":
+#if f == "Argall":
     #f1 = e1 + weight
-#if f == "Senator 3":
+#if f == "Aument":
     #f1 = e1 + weight
-#if f == "Senator 4":
+#if f == "Baker":
     #f1 = e1 + weight
-#if f == "Senator 5":
+#if f == "Bartolotta":
     #f1 = e1 + weight
-#if f == "Senator 6":
+#if f == "Blake":
     #f1 = e1 + weight
-#if f == "Senator 7":
+#if f == "Boscola":
     #f1 = e1 + weight
-#if f == "Senator 8":
+#if f == "Brewster":
     #f1 = e1 + weight
-#if f == "Senator 9":
+#if f == "Brooks":
     #f1 = e1 + weight
-#if f == "Senator 10":
+#if f == "Browne":
     #f1 = e1 + weight
-#if f == "Senator 11":
+#if f == "Corman":
     #f1 = e1 + weight
-#if f == "Senator 12":
+#if f == "Costa":
     #f1 = e1 + weight
-#if f == "Senator 13":
+#if f == "DiSanto":
     #f1 = e1 + weight
-#if f == "Senator 14":
+#if f == "Dinniman":
     #f1 = e1 + weight
-#if f == "Senator 15":
+#if f == "Eichelberger":
     #f1 = e1 + weight
-#if f == "Senator 16":
+#if f == "Farnese":
     #f1 = e1 + weight
-#if f == "Senator 17":
+#if f == "Folmer":
     #f1 = e1 + weight
-#if f == "Senator 18":
+#if f == "Fontana":
     #f1 = e1 + weight
-#if f == "Senator 19":
+#if f == "Gordner":
     #f1 = e1 + weight
-#if f == "Senator 20":
+#if f == "Greenleaf":
     #f1 = e1 + weight
-#if f == "Senator 21":
+#if f == "Haywood":
     #f1 = e1 + weight
-#if f == "Senator 22":
+#if f == "Hughes":
     #f1 = e1 + weight
-#if f == "Senator 23":
+#if f == "Hutchinson":
     #f1 = e1 + weight
-#if f == "Senator 24":
+#if f == "Killion":
     #f1 = e1 + weight
-#if f == "Senator 25":
+#if f == "Langerholc":
     #f1 = e1 + weight
-#if f == "Senator 26":
+#if f == "Laughlin":
     #f1 = e1 + weight
-#if f == "Senator 27":
+#if f == "Leach":
     #f1 = e1 + weight
-#if f == "Senator 28":
+#if f == "Martin":
     #f1 = e1 + weight
-#if f == "Senator 29":
+#if f == "McGarrigle":
     #f1 = e1 + weight
-#if f == "Senator 30":
+#if f == "McIlhinney":
     #f1 = e1 + weight
-#if f == "Senator 31":
+#if f == "Mensch":
     #f1 = e1 + weight
-#if f == "Senator 32":
+#if f == "Rafferty":
     #f1 = e1 + weight
-#if f == "Senator 33":
+#if f == "Regan":
     #f1 = e1 + weight
-#if f == "Senator 34":
+#if f == "Reschenthaler":
     #f1 = e1 + weight
-#if f == "Senator 35":
+#if f == "Sabatina":
     #f1 = e1 + weight
-#if f == "Senator 36":
+#if f == "Scarnati":
     #f1 = e1 + weight
-#if f == "Senator 37":
+#if f == "Scavello":
     #f1 = e1 + weight
-#if f == "Senator 38":
+#if f == "Schwank":
     #f1 = e1 + weight
-#if f == "Senator 39":
+#if f == "Stefano":
     #f1 = e1 + weight
-#if f == "Senator 40":
+#if f == "Street":
     #f1 = e1 + weight
-#if f == "Senator 41":
+#if f == "Tartaglione":
     #f1 = e1 + weight
-#if f == "Senator 42":
+#if f == "Tomlinson":
     #f1 = e1 + weight
-#if f == "Senator 43":
+#if f == "Vogel":
     #f1 = e1 + weight
-#if f == "Senator 44":
+#if f == "Vulakovich":
     #f1 = e1 + weight
-#if f == "Senator 45":
+#if f == "Wagner":
     #f1 = e1 + weight
-#if f == "Senator 46":
+#if f == "Ward":
     #f1 = e1 + weight
-#if f == "Senator 47":
+#if f == "White":
     #f1 = e1 + weight
-#if f == "Senator 48":
+#if f == "Willliams":
     #f1 = e1 + weight
-#if f == "Senator 49":
+#if f == "Yaw":
     #f1 = e1 + weight
-#if f == "Senator 50":
+#if f == "Yudichak":
     #f1 = e1 + weight
 g = input("Is the sponsor of the bill a member of the majority party?")
 if g == "Yes":
