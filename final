@@ -104,7 +104,7 @@ if a == "Yudichak":
 b = input("Is the sponsor of the bill the chair of the relevant committee?")
 if b == "Yes":
     b1 = a1 + 1.8
-if b == "No":
+elif b == "No":
     b1 = a1
 else:
     print("Invalid response. Please enter Yes or No.")
@@ -316,7 +316,7 @@ c52 = (b1 + c2 + c3 + c4 + c5 + c6 + c7 + c8 + c9 + c10 + c11 + c12 + c13 + c14 
 d = input("Is a cosponsor the chair of the relevant committee?")
 if d == "Yes":
     d1 = c52 + 1.4
-if d == "No":
+elif d == "No":
     d1 = c52
 else:
     print("Invalid response. Please enter Yes or No.")
