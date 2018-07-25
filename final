@@ -112,7 +112,7 @@ c1 = []
 for i in range(c):
     c1.append(input("Who is a cosponsor"))
 if "Alloway" in c1:
-    #2 = weight
+    c2 = weight
 if "Alloway" not in c1:
     c2 = 0
 if "Argall" in c1:
