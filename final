@@ -469,7 +469,7 @@ if f == "Yudichak":
 g = input("Is the sponsor of the bill a member of the majority party?")
 if g == "Yes":
     g1 = f1 + 0.5
-if g == "No":
+elif g == "No":
     g1 = f1
 else:
     print("Invalid response. Please enter Yes or No.")
