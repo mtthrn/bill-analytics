@@ -1,108 +1,108 @@
 print("Program is case sensitive. Please be sure to capitalize the first letter of each word and properly capitalize all names.")
 a = input("Who is the sponsor of the bill?")
-#if a == "Alloway":
-    #a1 = 0 + weight
-#if a == "Argall":
-    #a1 = 0 + weight
-#if a == "Aument":
-    #a1 = 0 + weight
-#if a == "Baker":
-    #a1 = 0 + weight
-#if a == "Bartolotta":
-    #a1 = 0 + weight
-#if a == "Blake":
-    #a1 = 0 + weight
-#if a == "Boscola":
-    #a1 = 0 + weight
-#if a == "Brewster":
-    #a1 = 0 + weight
-#if a == "Brooks":
-    #a1 = 0 + weight
-#if a == "Browne":
-    #a1 = 0 + weight
-#if a == "Corman":
-    #a1 = 0 + weight
-#if a == "Costa":
-    #a1 = 0 + weight
-#if a == "DiSanto":
-    #a1 = 0 + weight
-#if a == "Dinniman":
-    #a1 = 0 + weight
-#if a == "Eichelberger":
-    #a1 = 0 + weight
-#if a == "Farnese":
-    #a1 = 0 + weight
-#if a == "Folmer":
-    #a1 = 0 + weight
-#if a == "Fontana":
-    #a1 = 0 + weight
-#if a == "Gordner":
-    #a1 = 0 + weight
-#if a == "Greenleaf":
-    #a1 = 0 + weight
-#if a == "Haywood":
-    #a1 = 0 + weight
-#if a == "Hughes":
-    #a1 = 0 + weight
-#if a == "Hutchinson":
-    #a1 = 0 + weight
-#if a == "Killion":
-    #a1 = 0 + weight
-#if a == "Langerholc":
-    #a1 = 0 + weight
-#if a == "Laughlin":
-    #a1 = 0 + weight
-#if a == "Leach":
-    #a1 = 0 + weight
-#if a == "Martin":
-    #a1 = 0 + weight
-#if a == "McGarrigle":
-    #a1 = 0 + weight
-#if a == "McIlhinney":
-    #a1 = 0 + weight
-#if a == "Mensch":
-    #a1 = 0 + weight
-#if a == "Rafferty":
-    #a1 = 0 + weight
-#if a == "Regan":
-    #a1 = 0 + weight
-#if a == "Reschenthaler":
-    #a1 = 0 + weight
-#if a == "Sabatina":
-    #a1 = 0 + weight
-#if a == "Scarnati":
-    #a1 = 0 + weight
-#if a == "Scavello":
-    #a1 = 0 + weight
-#if a == "Schwank":
-    #a1 = 0 + weight
-#if a == "Stefano":
-    #a1 = 0 + weight
-#if a == "Street":
-    #a1 = 0 + weight
-#if a == "Tartaglione":
-    #a1 = 0 + weight
-#if a == "Tomlinson":
-    #a1 = 0 + weight
-#if a == "Vogel":
-    #a1 = 0 + weight
-#if a == "Vulakovich":
-    #a1 = 0 + weight
-#if a == "Wagner":
-    #a1 = 0 + weight
-#if a == "Ward":
-    #a1 = 0 + weight
-#if a == "White":
-    #a1 = 0 + weight
-#if a == "Williams":
-    #a1 = 0 + weight
-#if a == "Yaw":
-    #a1 = 0 + weight
-#if a == "Yudichak":
-    #a1 = 0 + weight
+if a == "Alloway":
+    a1 = 0 + weight
+if a == "Argall":
+    a1 = 0 + weight
+if a == "Aument":
+    a1 = 0 + weight
+if a == "Baker":
+    a1 = 0 + weight
+if a == "Bartolotta":
+    a1 = 0 + weight
+if a == "Blake":
+    a1 = 0 + weight
+if a == "Boscola":
+    a1 = 0 + weight
+if a == "Brewster":
+    a1 = 0 + weight
+if a == "Brooks":
+    a1 = 0 + weight
+if a == "Browne":
+    a1 = 0 + weight
+if a == "Corman":
+    a1 = 0 + weight
+if a == "Costa":
+    a1 = 0 + weight
+if a == "DiSanto":
+    a1 = 0 + weight
+if a == "Dinniman":
+    a1 = 0 + weight
+if a == "Eichelberger":
+    a1 = 0 + weight
+if a == "Farnese":
+    a1 = 0 + weight
+if a == "Folmer":
+    a1 = 0 + weight
+if a == "Fontana":
+    a1 = 0 + weight
+if a == "Gordner":
+    a1 = 0 + weight
+if a == "Greenleaf":
+    a1 = 0 + weight
+if a == "Haywood":
+    a1 = 0 + weight
+if a == "Hughes":
+    a1 = 0 + weight
+if a == "Hutchinson":
+    a1 = 0 + weight
+if a == "Killion":
+    a1 = 0 + weight
+if a == "Langerholc":
+    a1 = 0 + weight
+if a == "Laughlin":
+    a1 = 0 + weight
+if a == "Leach":
+    a1 = 0 + weight
+if a == "Martin":
+    a1 = 0 + weight
+if a == "McGarrigle":
+    a1 = 0 + weight
+if a == "McIlhinney":
+    a1 = 0 + weight
+if a == "Mensch":
+    a1 = 0 + weight
+if a == "Rafferty":
+    a1 = 0 + weight
+if a == "Regan":
+    a1 = 0 + weight
+if a == "Reschenthaler":
+    a1 = 0 + weight
+if a == "Sabatina":
+    a1 = 0 + weight
+if a == "Scarnati":
+    a1 = 0 + weight
+if a == "Scavello":
+    a1 = 0 + weight
+if a == "Schwank":
+    a1 = 0 + weight
+if a == "Stefano":
+    a1 = 0 + weight
+if a == "Street":
+    a1 = 0 + weight
+if a == "Tartaglione":
+    a1 = 0 + weight
+if a == "Tomlinson":
+    a1 = 0 + weight
+if a == "Vogel":
+    a1 = 0 + weight
+if a == "Vulakovich":
+    a1 = 0 + weight
+if a == "Wagner":
+    a1 = 0 + weight
+if a == "Ward":
+    a1 = 0 + weight
+if a == "White":
+    a1 = 0 + weight
+if a == "Williams":
+    a1 = 0 + weight
+if a == "Yaw":
+    a1 = 0 + weight
+if a == "Yudichak":
+    a1 = 0 + weight
 b = input("Is the sponsor of the bill the chair of the relevant committee?")
 if b == "Yes":
-    #b1 = a1 + 1.8
+    b1 = a1 + 1.8
 if b == "No":
     b1 = a1
 else:
@@ -111,376 +111,376 @@ c = int(input("How many cosponsors are there?"))
 c1 = []
 for i in range(c):
     c1.append(input("Who is a cosponsor"))
-#if "Alloway" in c1:
-    #c2 = weight
-#if "Alloway" not in c1:
+if "Alloway" in c1:
+    #2 = weight
+if "Alloway" not in c1:
     c2 = 0
-#if "Argall" in c1:
-    #c3 = weight
-#if "Argall" not in c1:
+if "Argall" in c1:
+    c3 = weight
+if "Argall" not in c1:
     c3 = 0
-#if "Aument" in c1:
-    #c4 = weight
-#if "Aument" not in c1:
+if "Aument" in c1:
+    c4 = weight
+if "Aument" not in c1:
     c4 = 0
-#if "Baker" in c1:
-    #c5 = weight
-#if "Baker" not in c1:
+if "Baker" in c1:
+    c5 = weight
+if "Baker" not in c1:
     c5 = 0
-#if "Bartolotta" in c1:
-    #c6 = weight
-#if "Bartolotta" not in c1:
+if "Bartolotta" in c1:
+    c6 = weight
+if "Bartolotta" not in c1:
     c6 = 0
-#if "Blake" in c1:
-    #c7 = weight
-#if "Blake" not in c1:
+if "Blake" in c1:
+    c7 = weight
+if "Blake" not in c1:
     c7 = 0
-#if "Boscola" in c1:
-    #c8 = weight
-#if "Boscola" not in c1:
+if "Boscola" in c1:
+    c8 = weight
+if "Boscola" not in c1:
     c8 = 0
-#if "Brewster" in c1:
-    #c9 = weight
-#if "Brewster" not in c1:
+if "Brewster" in c1:
+    c9 = weight
+if "Brewster" not in c1:
     c9 = 0
-#if "Brooks" in c1:
-    #c10 = weight
-#if "Brooks" not in c1:
+if "Brooks" in c1:
+    c10 = weight
+if "Brooks" not in c1:
     c10 = 0
-#if "Browne" in c1:
-    #c11 = weight
-#if "Browne" not in c1:
+if "Browne" in c1:
+    c11 = weight
+if "Browne" not in c1:
     c11 = 0
-#if "Corman" in c1:
-    #c12 = weight
-#if "Corman" not in c1:
+if "Corman" in c1:
+    c12 = weight
+if "Corman" not in c1:
     c12 = 0
-#if "Costa" in c1:
-    #c13 = weight
-#if "Costa" not in c1:
+if "Costa" in c1:
+    c13 = weight
+if "Costa" not in c1:
     c13 = 0
-#if "DiSanto" in c1:
-    #c14 = weight
-#if "DiSanto" not in c1:
+if "DiSanto" in c1:
+    c14 = weight
+if "DiSanto" not in c1:
     c14 = 0
-#if "Dinniman" in c1:
-    #c15 = weight
-#if "Dinniman" not in c1:
+if "Dinniman" in c1:
+    c15 = weight
+if "Dinniman" not in c1:
     c15 = 0
-#if "Eichelberger" in c1:
-    #c16 = weight
-#if "Eichelberger" not in c1:
+if "Eichelberger" in c1:
+    c16 = weight
+if "Eichelberger" not in c1:
     c16 = 0
-#if "Farnese" in c1:
-    #c17 = weight
-#if "Farnese" not in c1:
+if "Farnese" in c1:
+    c17 = weight
+if "Farnese" not in c1:
     c17 = 0
-#if "Folmer" in c1:
-    #c18 = weight
-#if "Folmer" not in c1:
+if "Folmer" in c1:
+    c18 = weight
+if "Folmer" not in c1:
     c18 = 0
-#if "Fontana" in c1:
-    #c19 = weight
-#if "Fontana" not in c1:
+if "Fontana" in c1:
+    c19 = weight
+if "Fontana" not in c1:
     c19 = 0
-#if "Gordner" in c1:
-    #c20 = weight
-#if "Gordner" not in c1:
+if "Gordner" in c1:
+    c20 = weight
+if "Gordner" not in c1:
     c20 = 0
-#if "Greenleaf" in c1:
-    #c21 = weight
-#if "Greenleaf" not in c1:
+if "Greenleaf" in c1:
+    c21 = weight
+if "Greenleaf" not in c1:
     c21 = 0
-#if "Haywood" in c1:
-    #c22 = weight
-#if "Haywood" not in c1:
+if "Haywood" in c1:
+    c22 = weight
+if "Haywood" not in c1:
     c22 = 0
-#if "Hughes" in c1:
-    #c23 = weight
-#if "Hughes" not in c1:
+if "Hughes" in c1:
+    c23 = weight
+if "Hughes" not in c1:
     c23 = 0
-#if "Hutchinson" in c1:
-    #c24 = weight
-#if "Hutchinson" not in c1:
+if "Hutchinson" in c1:
+    c24 = weight
+if "Hutchinson" not in c1:
     c24 = 0
-#if "Killion" in c1:
-    #c25 = weight
-#if "Killion" not in c1:
+if "Killion" in c1:
+    c25 = weight
+if "Killion" not in c1:
     c25 = 0
-#if "Langerholc" in c1:
-    #c26 = weight
-#if "Langerholc" not in c1:
+if "Langerholc" in c1:
+    c26 = weight
+if "Langerholc" not in c1:
     c26 = 0
-#if "Laughlin" in c1:
-    #c27 = weight
-#if "Laughlin" not in c1:
+if "Laughlin" in c1:
+    c27 = weight
+if "Laughlin" not in c1:
     c27 = 0
-#if "Leach" in c1:
-    #c28 = weight
-#if "Leach" not in c1:
+if "Leach" in c1:
+    c28 = weight
+if "Leach" not in c1:
     c28 = 0
-#if "Martin" in c1:
-    #c29 = weight
-#if "Martin" not in c1:
+if "Martin" in c1:
+    c29 = weight
+if "Martin" not in c1:
     c29 = 0
-#if "McGarrigle" in c1:
-    #c30 = weight
-#if "McGarrigle" not in c1:
+if "McGarrigle" in c1:
+    c30 = weight
+if "McGarrigle" not in c1:
     c30 = 0
-#if "McIlhinney" in c1:
-    #c31 = weight
-#if "McIlhinney" not in c1:
+if "McIlhinney" in c1:
+    c31 = weight
+if "McIlhinney" not in c1:
     c31 = 0
-#if "Mensch" in c1:
-    #c32 = weight
-#if "Mensch" not in c1:
+if "Mensch" in c1:
+    c32 = weight
+if "Mensch" not in c1:
     c32 = 0
-#if "Rafferty" in c1:
-    #c33 = weight
-#if "Rafferty" not in c1:
+if "Rafferty" in c1:
+    c33 = weight
+if "Rafferty" not in c1:
     c33 = 0
-#if "Regan" in c1:
-    #c34 = weight
-#if "Regan" not in c1:
+if "Regan" in c1:
+    c34 = weight
+if "Regan" not in c1:
     c34 = 0
-#if "Reschenthaler" in c1:
-    #c35 = weight
-#if "Reschenthaler" not in c1:
+if "Reschenthaler" in c1:
+    c35 = weight
+if "Reschenthaler" not in c1:
     c35 = 0
-#if "Sabatina" in c1:
-    #c36 = weight
-#if "Sabatina" not in c1:
+if "Sabatina" in c1:
+    c36 = weight
+if "Sabatina" not in c1:
     c36 = 0
-#if "Scarnati" in c1:
-    #c37 = weight
-#if "Scarnati" not in c1:
+if "Scarnati" in c1:
+    c37 = weight
+if "Scarnati" not in c1:
     c37 = 0
-#if "Scavello" in c1:
-    #c38 = weight
-#if "Scavello" not in c1:
+if "Scavello" in c1:
+    c38 = weight
+if "Scavello" not in c1:
     c38 = 0
-#if "Schwank" in c1:
-    #c39 = weight
-#if "Schwank" not in c1:
+if "Schwank" in c1:
+    c39 = weight
+if "Schwank" not in c1:
     c39 = 0
-#if "Stefano" in c1:
-    #c40 = weight
-#if "Stefano" not in c1:
+if "Stefano" in c1:
+    c40 = weight
+if "Stefano" not in c1:
     c40 = 0
-#if "Street" in c1:
-    #c41 = weight
-#if "Street" not in c1:
+if "Street" in c1:
+    c41 = weight
+if "Street" not in c1:
     c41 = 0
-#if "Tartaglione" in c1:
-    #c42 = weight
-#if "Tartaglione" not in c1:
+if "Tartaglione" in c1:
+    c42 = weight
+if "Tartaglione" not in c1:
     c42 = 0
-#if "Tomlinson" in c1:
-    #c43 = weight
-#if "Tomlinson" not in c1:
+if "Tomlinson" in c1:
+    c43 = weight
+if "Tomlinson" not in c1:
     c43 = 0
-#if "Vogel" in c1:
-    #c44 = weight
-#if "Vogel" not in c1:
+if "Vogel" in c1:
+    c44 = weight
+if "Vogel" not in c1:
     c44 = 0
-#if "Vulakovich" in c1:
-    #c45 = weight
-#if "Vulakovich" not in c1:
+if "Vulakovich" in c1:
+    c45 = weight
+if "Vulakovich" not in c1:
     c45 = 0
-#if "Wagner" in c1:
-    #c46 = weight
-#if "Wagner" not in c1:
+if "Wagner" in c1:
+    c46 = weight
+if "Wagner" not in c1:
     c46 = 0
-#if "Ward" in c1:
-    #c47 = weight
-#if "Ward" not in c1:
+if "Ward" in c1:
+    c47 = weight
+if "Ward" not in c1:
     c47 = 0
-#if "White" in c1:
-    #c48 = weight
-#if "White" not in c1:
+if "White" in c1:
+    c48 = weight
+if "White" not in c1:
     c48 = 0
-#if "Williams" in c1:
-    #c49 = weight
-#if "Williams" not in c1:
+if "Williams" in c1:
+    c49 = weight
+if "Williams" not in c1:
     c49 = 0
-#if "Yaw" in c1:
-    #c50 = weight
-#if "Yaw" not in c1:
+if "Yaw" in c1:
+    c50 = weight
+if "Yaw" not in c1:
     c50 = 0
-#if "Yudichak" in c1:
-    #c51 = weight
-#if "Yudichak" not in c1:
+if "Yudichak" in c1:
+    c51 = weight
+if "Yudichak" not in c1:
     c51 = 0
 c52 = (b1 + c2 + c3 + c4 + c5 + c6 + c7 + c8 + c9 + c10 + c11 + c12 + c13 + c14 + c15 + c16 + c17 + c18 + c19 + c20 + c21 + c22 + c23 + c24 + c25 + c26 + c27 + c28 + c29 + c30 + c31 + c32 + c33 + c34 + c35 + c36 + c37 + c38 + c39 + c40 + c41 + c42 + c43 + c44 + c45 + c46 + c47 + c48 + c49 + c50 + c51)
 d = input("Is a cosponsor the chair of the relevant committee?")
 if d == "Yes":
-    #d1 = c52 + 1.4
+    d1 = c52 + 1.4
 if d == "No":
     d1 = c52
 else:
     print("Invalid response. Please enter Yes or No.")
 if e == "Aging And Youth":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Agriculture And Rural Affairs":
     #e1 = d1 + weight
 if e == "Appropriations":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Banking And Insurance":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Communications And Technology":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Community, Economic and Recreational Development":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Consumer Protection And Professional Licensure":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Education":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Environmental Resources And Energy":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Finance":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Game And Fisheries":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Health And Human Services":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Intergovernmental Operations":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Judiciary":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Labor And Industry":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Law And Justice":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Local Government":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Rules And Executive Nominations":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "State Government":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Transportation":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Urban Affairs And Housing":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Veterans Affairs And Emergency Preparedness":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 f = input("Who is the chairman of the committee the bill was referred to?")
-#if f == "Alloway":
-    #f1 = e1 + weight
-#if f == "Argall":
-    #f1 = e1 + weight
-#if f == "Aument":
-    #f1 = e1 + weight
-#if f == "Baker":
-    #f1 = e1 + weight
-#if f == "Bartolotta":
-    #f1 = e1 + weight
-#if f == "Blake":
-    #f1 = e1 + weight
-#if f == "Boscola":
-    #f1 = e1 + weight
-#if f == "Brewster":
-    #f1 = e1 + weight
-#if f == "Brooks":
-    #f1 = e1 + weight
-#if f == "Browne":
-    #f1 = e1 + weight
-#if f == "Corman":
-    #f1 = e1 + weight
-#if f == "Costa":
-    #f1 = e1 + weight
-#if f == "DiSanto":
-    #f1 = e1 + weight
-#if f == "Dinniman":
-    #f1 = e1 + weight
-#if f == "Eichelberger":
-    #f1 = e1 + weight
-#if f == "Farnese":
-    #f1 = e1 + weight
-#if f == "Folmer":
-    #f1 = e1 + weight
-#if f == "Fontana":
-    #f1 = e1 + weight
-#if f == "Gordner":
-    #f1 = e1 + weight
-#if f == "Greenleaf":
-    #f1 = e1 + weight
-#if f == "Haywood":
-    #f1 = e1 + weight
-#if f == "Hughes":
-    #f1 = e1 + weight
-#if f == "Hutchinson":
-    #f1 = e1 + weight
-#if f == "Killion":
-    #f1 = e1 + weight
-#if f == "Langerholc":
-    #f1 = e1 + weight
-#if f == "Laughlin":
-    #f1 = e1 + weight
-#if f == "Leach":
-    #f1 = e1 + weight
-#if f == "Martin":
-    #f1 = e1 + weight
-#if f == "McGarrigle":
-    #f1 = e1 + weight
-#if f == "McIlhinney":
-    #f1 = e1 + weight
-#if f == "Mensch":
-    #f1 = e1 + weight
-#if f == "Rafferty":
-    #f1 = e1 + weight
-#if f == "Regan":
-    #f1 = e1 + weight
-#if f == "Reschenthaler":
-    #f1 = e1 + weight
-#if f == "Sabatina":
-    #f1 = e1 + weight
-#if f == "Scarnati":
-    #f1 = e1 + weight
-#if f == "Scavello":
-    #f1 = e1 + weight
-#if f == "Schwank":
-    #f1 = e1 + weight
-#if f == "Stefano":
-    #f1 = e1 + weight
-#if f == "Street":
-    #f1 = e1 + weight
-#if f == "Tartaglione":
-    #f1 = e1 + weight
-#if f == "Tomlinson":
-    #f1 = e1 + weight
-#if f == "Vogel":
-    #f1 = e1 + weight
-#if f == "Vulakovich":
-    #f1 = e1 + weight
-#if f == "Wagner":
-    #f1 = e1 + weight
-#if f == "Ward":
-    #f1 = e1 + weight
-#if f == "White":
-    #f1 = e1 + weight
-#if f == "Willliams":
-    #f1 = e1 + weight
-#if f == "Yaw":
-    #f1 = e1 + weight
-#if f == "Yudichak":
-    #f1 = e1 + weight
+if f == "Alloway":
+    f1 = e1 + weight
+if f == "Argall":
+    f1 = e1 + weight
+if f == "Aument":
+    f1 = e1 + weight
+if f == "Baker":
+    f1 = e1 + weight
+if f == "Bartolotta":
+    f1 = e1 + weight
+if f == "Blake":
+    f1 = e1 + weight
+if f == "Boscola":
+    f1 = e1 + weight
+if f == "Brewster":
+    f1 = e1 + weight
+if f == "Brooks":
+    f1 = e1 + weight
+if f == "Browne":
+    f1 = e1 + weight
+if f == "Corman":
+    f1 = e1 + weight
+if f == "Costa":
+    f1 = e1 + weight
+if f == "DiSanto":
+    f1 = e1 + weight
+if f == "Dinniman":
+    f1 = e1 + weight
+if f == "Eichelberger":
+    f1 = e1 + weight
+if f == "Farnese":
+    f1 = e1 + weight
+if f == "Folmer":
+    f1 = e1 + weight
+if f == "Fontana":
+    f1 = e1 + weight
+if f == "Gordner":
+    f1 = e1 + weight
+if f == "Greenleaf":
+    f1 = e1 + weight
+if f == "Haywood":
+    f1 = e1 + weight
+if f == "Hughes":
+    f1 = e1 + weight
+if f == "Hutchinson":
+    f1 = e1 + weight
+if f == "Killion":
+    f1 = e1 + weight
+if f == "Langerholc":
+    f1 = e1 + weight
+if f == "Laughlin":
+    f1 = e1 + weight
+if f == "Leach":
+    f1 = e1 + weight
+if f == "Martin":
+    f1 = e1 + weight
+if f == "McGarrigle":
+    f1 = e1 + weight
+if f == "McIlhinney":
+    f1 = e1 + weight
+if f == "Mensch":
+    f1 = e1 + weight
+if f == "Rafferty":
+    f1 = e1 + weight
+if f == "Regan":
+    f1 = e1 + weight
+if f == "Reschenthaler":
+    f1 = e1 + weight
+if f == "Sabatina":
+    f1 = e1 + weight
+if f == "Scarnati":
+    f1 = e1 + weight
+if f == "Scavello":
+    f1 = e1 + weight
+if f == "Schwank":
+    f1 = e1 + weight
+if f == "Stefano":
+    f1 = e1 + weight
+if f == "Street":
+    f1 = e1 + weight
+if f == "Tartaglione":
+    f1 = e1 + weight
+if f == "Tomlinson":
+    f1 = e1 + weight
+if f == "Vogel":
+    f1 = e1 + weight
+if f == "Vulakovich":
+    f1 = e1 + weight
+if f == "Wagner":
+    f1 = e1 + weight
+if f == "Ward":
+    f1 = e1 + weight
+if f == "White":
+    f1 = e1 + weight
+if f == "Willliams":
+    f1 = e1 + weight
+if f == "Yaw":
+    f1 = e1 + weight
+if f == "Yudichak":
+    f1 = e1 + weight
 g = input("Is the sponsor of the bill a member of the majority party?")
 if g == "Yes":
-    #g1 = f1 + 0.5
+    g1 = f1 + 0.5
 if g == "No":
     g1 = f1
 else:
     print("Invalid response. Please enter Yes or No.")
 h = int(input("How many cosponsors of the bill are a member of the minority party?"))
 if h > c * 0.32:
-    #h1 = g1 + 0.2
+    h1 = g1 + 0.2
 else:
     h1 = g1
 
 #ASSIGN PROBABILITIES BASED ON RANGE OF SCORE HERE
 #EXAMPLE: 
 
-#if h1 >= 0.5 and < 1:
-    #i1 = "45%"
+if h1 >= 0.5 and < 1:
+    i1 = "45%"
 
 print("The score of this bill is", h1, "and it has a", i1, "chance of passing.")
