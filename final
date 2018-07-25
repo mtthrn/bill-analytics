@@ -111,7 +111,7 @@ else:
 c = int(input("How many cosponsors are there?"))
 c1 = []
 for i in range(c):
-    c1.append(input("Who is a cosponsor"))
+    c1.append(input("Who is a cosponsor?"))
 if "Alloway" in c1:
     c2 = weight
 if "Alloway" not in c1:
@@ -320,6 +320,7 @@ if d == "No":
     d1 = c52
 else:
     print("Invalid response. Please enter Yes or No.")
+e = input("What committee was the bill referred to?")
 if e == "Aging And Youth":
     e1 = d1 + weight
 if e == "Agriculture And Rural Affairs":
