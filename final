@@ -1,3 +1,4 @@
+weight = 0
 print("Program is case sensitive. Please be sure to capitalize the first letter of each word and properly capitalize all names.")
 a = input("Who is the sponsor of the bill?")
 if a == "Alloway":
@@ -322,7 +323,7 @@ else:
 if e == "Aging And Youth":
     e1 = d1 + weight
 if e == "Agriculture And Rural Affairs":
-    #e1 = d1 + weight
+    e1 = d1 + weight
 if e == "Appropriations":
     e1 = d1 + weight
 if e == "Banking And Insurance":
@@ -476,11 +477,5 @@ if h > c * 0.32:
     h1 = g1 + 0.2
 else:
     h1 = g1
-
-#ASSIGN PROBABILITIES BASED ON RANGE OF SCORE HERE
-#EXAMPLE: 
-
-if h1 >= 0.5 and < 1:
-    i1 = "45%"
 
 print("The score of this bill is", h1, "and it has a", i1, "chance of passing.")
