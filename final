@@ -1,3 +1,4 @@
+weight = 0
 print("Program is case sensitive. Please be sure to capitalize the first letter of each word and properly capitalize all names.")
 a = input("Who is the sponsor of the bill?")
 if a == "Alloway":
