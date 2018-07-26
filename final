@@ -410,7 +410,7 @@ if f == "Haywood":
 if f == "Hughes":
     f1 = e1 + 1.6
 if f == "Hutchinson":
-    f1 = e1 + weight
+    f1 = e1 + .8
 if f == "Killion":
     f1 = e1 + 0
 if f == "Langerholc":
