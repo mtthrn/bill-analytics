@@ -1,4 +1,3 @@
-weight = 0
 print("Program is case sensitive. Please be sure to capitalize the first letter of each word and properly capitalize all names.")
 a = input("Who is the sponsor of the bill?")
 if a == "Alloway":
@@ -322,49 +321,49 @@ else:
     print("Invalid response. Please enter Yes or No.")
 e = input("What committee was the bill referred to?")
 if e == "Aging And Youth":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Agriculture And Rural Affairs":
-    e1 = d1 + weight
+    e1 = d1 - 1.8
 if e == "Appropriations":
-    e1 = d1 + weight
+    e1 = d1 + 1.6
 if e == "Banking And Insurance":
-    e1 = d1 + weight
+    e1 = d1 + .9
 if e == "Communications And Technology":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Community, Economic and Recreational Development":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Consumer Protection And Professional Licensure":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Education":
-    e1 = d1 + weight
+    e1 = d1 + 1.2
 if e == "Environmental Resources And Energy":
-    e1 = d1 + weight
+    e1 = d1 + .8
 if e == "Finance":
-    e1 = d1 + weight
+    e1 = d1 + .9
 if e == "Game And Fisheries":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Health And Human Services":
-    e1 = d1 + weight
+    e1 = d1 + 1.2
 if e == "Intergovernmental Operations":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Judiciary":
-    e1 = d1 + weight
+    e1 = d1 - .8
 if e == "Labor And Industry":
-    e1 = d1 + weight
+    e1 = d1 + 1.2
 if e == "Law And Justice":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Local Government":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Rules And Executive Nominations":
-    e1 = d1 + weight
+    e1 = d1 - 2
 if e == "State Government":
-    e1 = d1 + weight
+    e1 = d1 + 0
 if e == "Transportation":
-    e1 = d1 + weight
+    e1 = d1 + .7
 if e == "Urban Affairs And Housing":
-    e1 = d1 + weight
+    e1 = d1 + .9
 if e == "Veterans Affairs And Emergency Preparedness":
-    e1 = d1 + weight
+    e1 = d1 + 0
 f = input("Who is the chairman of the committee the bill was referred to?")
 if f == "Alloway":
     f1 = e1 + 1.8
