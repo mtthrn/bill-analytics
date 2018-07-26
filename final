@@ -474,8 +474,41 @@ else:
     print("Invalid response. Please enter Yes or No.")
 h = int(input("How many cosponsors of the bill are a member of the minority party?"))
 if h > c * 0.32:
-    h1 = g1 + 0.2
+    h1 = g1 + 1.1
 else:
     h1 = g1
+i = int(input("How many cosponsors are on the relevant committee?"))
+if i >= 2:
+    i1 = h1 - .2
+else: 
+    i1 = h1
+j = input("Has this bill been passed by a committee in a previous session?")
+if j = "Yes":
+    j1 = i1 + 1.6
+if j = "No":
+    j1 = i1
 
-print("The score of this bill is", h1, "and it has a", i1, "chance of passing.")
+if j1 < 4.45:
+    k1 = "5%"
+elif 4.45 <= j1 < 11.1:
+    k1 = "15%"
+elif 11.1 <= j1 < 17.75:
+    k1 = "25%"
+elif 17.75 <= j1 < 24.4:
+    k1 = "35%"
+elif 24.4 <= j1 < 31.05:
+    k1 = "45%"
+elif 31.05 <= j1 < 37.7:
+    k1 = "55%"
+elif 37.7 <= j1 < 44.3:
+    k1 = "65%"
+elif 44.3 <= j1 < 53.7:
+    k1 = "75%"
+elif 53.7 <= j1 < 63.1:
+    k1 = "85%"
+elif 63.1 <= j1:
+    k1 = "95%"
+else:
+    k1 = "ERROR"
+
+print("The score of this bill is", j1, "and it has a", k1, "chance of passing.")
