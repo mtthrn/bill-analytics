@@ -489,26 +489,26 @@ if j == "No":
     j1 = i1
 
 if j1 < 4.45:
-    k1 == "5%"
+    print("This bill has a 5% chance of passing.")
 elif 4.45 <= j1 < 11.1:
-    k1 == "15%"
+    print("This bill has a 15% chance of passing.")
 elif 11.1 <= j1 < 17.75:
-    k1 == "25%"
+    print("This bill has a 25% chance of passing.")
 elif 17.75 <= j1 < 24.4:
-    k1 == "35%"
+    print("This bill has a 35% chance of passing.")
 elif 24.4 <= j1 < 31.05:
-    k1 == "45%"
+    print("This bill has a 45% chance of passing.")
 elif 31.05 <= j1 < 37.7:
-    k1 == "55%"
+    print("This bill has a 55% chance of passing.")
 elif 37.7 <= j1 < 44.3:
-    k1 == "65%"
+    print("This bill has a 65% chance of passing.")
 elif 44.3 <= j1 < 53.7:
-    k1 == "75%"
+    print("This bill has a 75% chance of passing.")
 elif 53.7 <= j1 < 63.1:
-    k1 == "85%"
+    print("This bill has a 85% chance of passing.")
 elif 63.1 <= j1:
-    k1 == "95%"
+    print("This bill has a 95% chance of passing.")
 else:
-    k1 == "ERROR"
+    print("ERROR")
 
 print("The score of this bill is", j1, "and it has a", k1, "chance of passing.")
