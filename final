@@ -1,106 +1,105 @@
-weight = 0
 print("Program is case sensitive. Please be sure to capitalize the first letter of each word and properly capitalize all names.")
 a = input("Who is the sponsor of the bill?")
 if a == "Alloway":
-    a1 = 0 + weight
+    a1 = 0 + 1.8
 if a == "Argall":
-    a1 = 0 + weight
+    a1 = 0 + 1
 if a == "Aument":
-    a1 = 0 + weight
+    a1 = 0 + 2
 if a == "Baker":
-    a1 = 0 + weight
+    a1 = 0 + 1.2
 if a == "Bartolotta":
-    a1 = 0 + weight
+    a1 = 0 + 1.2
 if a == "Blake":
-    a1 = 0 + weight
+    a1 = 0 + 1
 if a == "Boscola":
-    a1 = 0 + weight
+    a1 = 0 + 1.4
 if a == "Brewster":
-    a1 = 0 + weight
+    a1 = 0 + 1.8
 if a == "Brooks":
-    a1 = 0 + weight
+    a1 = 0 + 1
 if a == "Browne":
-    a1 = 0 + weight
+    a1 = 0 + 2
 if a == "Corman":
-    a1 = 0 + weight
+    a1 = 0 + .4
 if a == "Costa":
-    a1 = 0 + weight
+    a1 = 0 + 2
 if a == "DiSanto":
-    a1 = 0 + weight
+    a1 = 0
 if a == "Dinniman":
-    a1 = 0 + weight
+    a1 = 0 + .4
 if a == "Eichelberger":
-    a1 = 0 + weight
+    a1 = 0 + 1.2
 if a == "Farnese":
-    a1 = 0 + weight
+    a1 = 0 + 1
 if a == "Folmer":
-    a1 = 0 + weight
+    a1 = 0 + 1.4
 if a == "Fontana":
-    a1 = 0 + weight
+    a1 = 0 + 1.6
 if a == "Gordner":
-    a1 = 0 + weight
+    a1 = 0 + 1.2
 if a == "Greenleaf":
-    a1 = 0 + weight
+    a1 = 0 + 2
 if a == "Haywood":
-    a1 = 0 + weight
+    a1 = 0 + 1
 if a == "Hughes":
-    a1 = 0 + weight
+    a1 = 0 + 1.6
 if a == "Hutchinson":
-    a1 = 0 + weight
+    a1 = 0 + .8
 if a == "Killion":
-    a1 = 0 + weight
+    a1 = 0
 if a == "Langerholc":
-    a1 = 0 + weight
+    a1 = 0
 if a == "Laughlin":
-    a1 = 0 + weight
+    a1 = 0
 if a == "Leach":
-    a1 = 0 + weight
+    a1 = 0 + .6
 if a == "Martin":
-    a1 = 0 + weight
+    a1 = 0
 if a == "McGarrigle":
-    a1 = 0 + weight
+    a1 = 0 + .8
 if a == "McIlhinney":
-    a1 = 0 + weight
+    a1 = 0 + .8
 if a == "Mensch":
-    a1 = 0 + weight
+    a1 = 0 + .6
 if a == "Rafferty":
-    a1 = 0 + weight
+    a1 = 0 + 2
 if a == "Regan":
-    a1 = 0 + weight
+    a1 = 0
 if a == "Reschenthaler":
-    a1 = 0 + weight
+    a1 = 0
 if a == "Sabatina":
-    a1 = 0 + weight
+    a1 = 0 + .4
 if a == "Scarnati":
-    a1 = 0 + weight
+    a1 = 0 + 1.4
 if a == "Scavello":
-    a1 = 0 + weight
+    a1 = 0 + 2
 if a == "Schwank":
-    a1 = 0 + weight
+    a1 = 0 + 1.6
 if a == "Stefano":
-    a1 = 0 + weight
+    a1 = 0 + 2
 if a == "Street":
-    a1 = 0 + weight
+    a1 = 0
 if a == "Tartaglione":
-    a1 = 0 + weight
+    a1 = 0 + 1.4
 if a == "Tomlinson":
-    a1 = 0 + weight
+    a1 = 0 + .4
 if a == "Vogel":
-    a1 = 0 + weight
+    a1 = 0 + 1.6
 if a == "Vulakovich":
-    a1 = 0 + weight
+    a1 = 0 + 1.8
 if a == "Wagner":
-    a1 = 0 + weight
+    a1 = 0 + .6
 if a == "Ward":
-    a1 = 0 + weight
+    a1 = 0 + 1.8
 if a == "White":
-    a1 = 0 + weight
+    a1 = 0 + 1.2
 if a == "Williams":
-    a1 = 0 + weight
+    a1 = 0 + 1
 if a == "Yaw":
-    a1 = 0 + weight
+    a1 = 0 + .8
 if a == "Yudichak":
-    a1 = 0 + weight
+    a1 = 0 + 1.8
 b = input("Is the sponsor of the bill the chair of the relevant committee?")
 if b == "Yes":
     b1 = a1 + 1.8
@@ -113,203 +112,203 @@ c1 = []
 for i in range(c):
     c1.append(input("Who is a cosponsor?"))
 if "Alloway" in c1:
-    c2 = weight
+    c2 = 1.8
 if "Alloway" not in c1:
     c2 = 0
 if "Argall" in c1:
-    c3 = weight
+    c3 = 1
 if "Argall" not in c1:
     c3 = 0
 if "Aument" in c1:
-    c4 = weight
+    c4 = 2
 if "Aument" not in c1:
     c4 = 0
 if "Baker" in c1:
-    c5 = weight
+    c5 = 1.2
 if "Baker" not in c1:
     c5 = 0
 if "Bartolotta" in c1:
-    c6 = weight
+    c6 = 1.2
 if "Bartolotta" not in c1:
     c6 = 0
 if "Blake" in c1:
-    c7 = weight
+    c7 = 1
 if "Blake" not in c1:
     c7 = 0
 if "Boscola" in c1:
-    c8 = weight
+    c8 = 1.4
 if "Boscola" not in c1:
     c8 = 0
 if "Brewster" in c1:
-    c9 = weight
+    c9 = 1.8
 if "Brewster" not in c1:
     c9 = 0
 if "Brooks" in c1:
-    c10 = weight
+    c10 = 1
 if "Brooks" not in c1:
     c10 = 0
 if "Browne" in c1:
-    c11 = weight
+    c11 = 2
 if "Browne" not in c1:
     c11 = 0
 if "Corman" in c1:
-    c12 = weight
+    c12 = .4
 if "Corman" not in c1:
     c12 = 0
 if "Costa" in c1:
-    c13 = weight
+    c13 = 2
 if "Costa" not in c1:
     c13 = 0
 if "DiSanto" in c1:
-    c14 = weight
+    c14 = 0
 if "DiSanto" not in c1:
     c14 = 0
 if "Dinniman" in c1:
-    c15 = weight
+    c15 = .4
 if "Dinniman" not in c1:
     c15 = 0
 if "Eichelberger" in c1:
-    c16 = weight
+    c16 = 1.2
 if "Eichelberger" not in c1:
     c16 = 0
 if "Farnese" in c1:
-    c17 = weight
+    c17 = 1
 if "Farnese" not in c1:
     c17 = 0
 if "Folmer" in c1:
-    c18 = weight
+    c18 = 1.4
 if "Folmer" not in c1:
     c18 = 0
 if "Fontana" in c1:
-    c19 = weight
+    c19 = 1.6
 if "Fontana" not in c1:
     c19 = 0
 if "Gordner" in c1:
-    c20 = weight
+    c20 = 1.2
 if "Gordner" not in c1:
     c20 = 0
 if "Greenleaf" in c1:
-    c21 = weight
+    c21 = 2
 if "Greenleaf" not in c1:
     c21 = 0
 if "Haywood" in c1:
-    c22 = weight
+    c22 = 1
 if "Haywood" not in c1:
     c22 = 0
 if "Hughes" in c1:
-    c23 = weight
+    c23 = 1.6
 if "Hughes" not in c1:
     c23 = 0
 if "Hutchinson" in c1:
-    c24 = weight
+    c24 = .8
 if "Hutchinson" not in c1:
     c24 = 0
 if "Killion" in c1:
-    c25 = weight
+    c25 = we0ight
 if "Killion" not in c1:
     c25 = 0
 if "Langerholc" in c1:
-    c26 = weight
+    c26 = 0
 if "Langerholc" not in c1:
     c26 = 0
 if "Laughlin" in c1:
-    c27 = weight
+    c27 = 0
 if "Laughlin" not in c1:
     c27 = 0
 if "Leach" in c1:
-    c28 = weight
+    c28 = .6
 if "Leach" not in c1:
     c28 = 0
 if "Martin" in c1:
-    c29 = weight
+    c29 = 0
 if "Martin" not in c1:
     c29 = 0
 if "McGarrigle" in c1:
-    c30 = weight
+    c30 = .8
 if "McGarrigle" not in c1:
     c30 = 0
 if "McIlhinney" in c1:
-    c31 = weight
+    c31 = .8
 if "McIlhinney" not in c1:
     c31 = 0
 if "Mensch" in c1:
-    c32 = weight
+    c32 = .6
 if "Mensch" not in c1:
     c32 = 0
 if "Rafferty" in c1:
-    c33 = weight
+    c33 = 2
 if "Rafferty" not in c1:
     c33 = 0
 if "Regan" in c1:
-    c34 = weight
+    c34 = 0
 if "Regan" not in c1:
     c34 = 0
 if "Reschenthaler" in c1:
-    c35 = weight
+    c35 = 0
 if "Reschenthaler" not in c1:
     c35 = 0
 if "Sabatina" in c1:
-    c36 = weight
+    c36 = .4
 if "Sabatina" not in c1:
     c36 = 0
 if "Scarnati" in c1:
-    c37 = weight
+    c37 = 1.4
 if "Scarnati" not in c1:
     c37 = 0
 if "Scavello" in c1:
-    c38 = weight
+    c38 = 2
 if "Scavello" not in c1:
     c38 = 0
 if "Schwank" in c1:
-    c39 = weight
+    c39 = 1.6
 if "Schwank" not in c1:
     c39 = 0
 if "Stefano" in c1:
-    c40 = weight
+    c40 = 2
 if "Stefano" not in c1:
     c40 = 0
 if "Street" in c1:
-    c41 = weight
+    c41 = 0
 if "Street" not in c1:
     c41 = 0
 if "Tartaglione" in c1:
-    c42 = weight
+    c42 = 1.4
 if "Tartaglione" not in c1:
     c42 = 0
 if "Tomlinson" in c1:
-    c43 = weight
+    c43 = .4
 if "Tomlinson" not in c1:
     c43 = 0
 if "Vogel" in c1:
-    c44 = weight
+    c44 = 1.6
 if "Vogel" not in c1:
     c44 = 0
 if "Vulakovich" in c1:
-    c45 = weight
+    c45 = 1.8
 if "Vulakovich" not in c1:
     c45 = 0
 if "Wagner" in c1:
-    c46 = weight
+    c46 = .6
 if "Wagner" not in c1:
     c46 = 0
 if "Ward" in c1:
-    c47 = weight
+    c47 = 1.8
 if "Ward" not in c1:
     c47 = 0
 if "White" in c1:
-    c48 = weight
+    c48 = 1.2
 if "White" not in c1:
     c48 = 0
 if "Williams" in c1:
-    c49 = weight
+    c49 = 1
 if "Williams" not in c1:
     c49 = 0
 if "Yaw" in c1:
-    c50 = weight
+    c50 = .8
 if "Yaw" not in c1:
     c50 = 0
 if "Yudichak" in c1:
-    c51 = weight
+    c51 = 1.8
 if "Yudichak" not in c1:
     c51 = 0
 c52 = (b1 + c2 + c3 + c4 + c5 + c6 + c7 + c8 + c9 + c10 + c11 + c12 + c13 + c14 + c15 + c16 + c17 + c18 + c19 + c20 + c21 + c22 + c23 + c24 + c25 + c26 + c27 + c28 + c29 + c30 + c31 + c32 + c33 + c34 + c35 + c36 + c37 + c38 + c39 + c40 + c41 + c42 + c43 + c44 + c45 + c46 + c47 + c48 + c49 + c50 + c51)
@@ -367,105 +366,105 @@ if e == "Veterans Affairs And Emergency Preparedness":
     e1 = d1 + weight
 f = input("Who is the chairman of the committee the bill was referred to?")
 if f == "Alloway":
-    f1 = e1 + weight
+    f1 = e1 + 1.8
 if f == "Argall":
-    f1 = e1 + weight
+    f1 = e1 + 1
 if f == "Aument":
-    f1 = e1 + weight
+    f1 = e1 + 2
 if f == "Baker":
-    f1 = e1 + weight
+    f1 = e1 + 1.2
 if f == "Bartolotta":
-    f1 = e1 + weight
+    f1 = e1 + 1.2
 if f == "Blake":
-    f1 = e1 + weight
+    f1 = e1 + 1
 if f == "Boscola":
-    f1 = e1 + weight
+    f1 = e1 + 1.4
 if f == "Brewster":
-    f1 = e1 + weight
+    f1 = e1 + 1.8
 if f == "Brooks":
-    f1 = e1 + weight
+    f1 = e1 + 1
 if f == "Browne":
-    f1 = e1 + weight
+    f1 = e1 + 2
 if f == "Corman":
-    f1 = e1 + weight
+    f1 = e1 + .4
 if f == "Costa":
-    f1 = e1 + weight
+    f1 = e1 + 2
 if f == "DiSanto":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "Dinniman":
-    f1 = e1 + weight
+    f1 = e1 + .4
 if f == "Eichelberger":
-    f1 = e1 + weight
+    f1 = e1 + 1.2
 if f == "Farnese":
-    f1 = e1 + weight
+    f1 = e1 + 1
 if f == "Folmer":
-    f1 = e1 + weight
+    f1 = e1 + 1.4
 if f == "Fontana":
-    f1 = e1 + weight
+    f1 = e1 + 1.6
 if f == "Gordner":
-    f1 = e1 + weight
+    f1 = e1 + 1.2
 if f == "Greenleaf":
-    f1 = e1 + weight
+    f1 = e1 + 2
 if f == "Haywood":
-    f1 = e1 + weight
+    f1 = e1 + 1
 if f == "Hughes":
-    f1 = e1 + weight
+    f1 = e1 + 1.6
 if f == "Hutchinson":
     f1 = e1 + weight
 if f == "Killion":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "Langerholc":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "Laughlin":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "Leach":
-    f1 = e1 + weight
+    f1 = e1 + .6
 if f == "Martin":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "McGarrigle":
-    f1 = e1 + weight
+    f1 = e1 + .8
 if f == "McIlhinney":
-    f1 = e1 + weight
+    f1 = e1 + .8
 if f == "Mensch":
-    f1 = e1 + weight
+    f1 = e1 + .6
 if f == "Rafferty":
-    f1 = e1 + weight
+    f1 = e1 + 2
 if f == "Regan":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "Reschenthaler":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "Sabatina":
-    f1 = e1 + weight
+    f1 = e1 + .4
 if f == "Scarnati":
-    f1 = e1 + weight
+    f1 = e1 + 1.4
 if f == "Scavello":
-    f1 = e1 + weight
+    f1 = e1 + 2
 if f == "Schwank":
-    f1 = e1 + weight
+    f1 = e1 + 1.6
 if f == "Stefano":
-    f1 = e1 + weight
+    f1 = e1 + 2
 if f == "Street":
-    f1 = e1 + weight
+    f1 = e1 + 0
 if f == "Tartaglione":
-    f1 = e1 + weight
+    f1 = e1 + 1.4
 if f == "Tomlinson":
-    f1 = e1 + weight
+    f1 = e1 + .4
 if f == "Vogel":
-    f1 = e1 + weight
+    f1 = e1 + 1.6
 if f == "Vulakovich":
-    f1 = e1 + weight
+    f1 = e1 + 1.8
 if f == "Wagner":
-    f1 = e1 + weight
+    f1 = e1 + .6
 if f == "Ward":
-    f1 = e1 + weight
+    f1 = e1 + 1.8
 if f == "White":
-    f1 = e1 + weight
+    f1 = e1 + 1.2
 if f == "Willliams":
-    f1 = e1 + weight
+    f1 = e1 + 1
 if f == "Yaw":
-    f1 = e1 + weight
+    f1 = e1 + .8
 if f == "Yudichak":
-    f1 = e1 + weight
+    f1 = e1 + 1.8
 g = input("Is the sponsor of the bill a member of the majority party?")
 if g == "Yes":
     g1 = f1 + 0.5
